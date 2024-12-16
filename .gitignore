@@ -1,0 +1,4 @@
+airflow/dags/__pycache__
+airflow/dags/extraction/__pycache__
+airflow/dags/service_acc/*
+airflow/logs/*
